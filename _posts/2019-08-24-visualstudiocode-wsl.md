@@ -22,19 +22,22 @@ windows10에서 개발을 하다보면 환경변수나 기타 빌드도구들이
 [WSL 설치방법](https://docs.microsoft.com/ko-kr/windows/wsl/install-win10)  
 위의 링크를 누르면 microsoft 홈페이지에서 wsl을 설치하는 방법이 자세히 나온다. 
 관리자 권한으로 Powershell을 열고 아래긔 명령어로 wsl을 설치하고 재부팅하면 사용할 수 있다.
+
 ```PowerShell
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 ```
 
-재부팅후 Microsoft Store에 가서 우분투를 설치하면 된다.  
-![ubuntu](assets/images/ubuntu_install.JPG)
+재부팅후 Microsoft Store에 가서 우분투를 설치하면 된다.
+![ubuntu]({{ "/assets/images/ubuntu_install.JPG" | relative_url }})
 
 나는 18.04 버젼을 설치하였다.
 설치된 Ubuntu 18.04를 실행하고 커맨트 창에 vs code 실행 명령어를 치면
+
 ```shell
 code .
 ```
-![ubuntucli](assets/images/ubuntu_cli.JPG)
+
+![ubuntucli]({{ "assets/images/ubuntu_cli.JPG" | relative_url }})
 
 visual studio code가 Remote WSL모드로 실행된다. Remote WSL extention이 없으면 바로 install 로 넘어간다.
-
+이제 visual studio code에서 원하는 폴더를 open해서 마치 native ubuntu를 사용하듯이 쓸수있다.

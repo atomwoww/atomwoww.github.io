@@ -27,7 +27,7 @@ sudo tar -C /usr/local -xzf go1.12.9.linux-amd64.tar.gz
 ```
 
 ```bash
-cat <<EoF >> ~/.profile 
+cat <<EoF >> ~/.profile
 export PATH=$PATH:/usr/local/go/bin
 EoF
 ```
