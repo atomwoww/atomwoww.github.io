@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Nodejs 시작하기
-date:   2018-08-22 00:00:00 +0800
+date:   2018-09-22 00:00:00 +0800
 categories: program
 tag: [nodejs, server]
 ---
