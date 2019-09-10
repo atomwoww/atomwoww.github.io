@@ -20,7 +20,7 @@ cd LessOrMore-master
 
 * 처음 받은 코드의 모습  
 ![config]({{ "assets/images/2019-08-27-jekyll-blog-code/스크린샷 2019-08-27 오후 6.50.20.png" | relative_url }}){: width="100%" height="100"%}  
-`name, email, author`을 맞게 수정해준다. 그리고 url은 github주소(https://{사용자이름}.github.io) 
+`name, email, author`을 맞게 수정해준다. 그리고 url은 github주소(`https://{사용자이름}.github.io`)
 
 ```yaml
     url: https://atomwoww.github.io

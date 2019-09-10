@@ -31,6 +31,6 @@ author: atom
 ![screen2]({{ "assets/images/README/스크린샷 2019-08-26 오후 7.52.23.png" | relative_url }})  
 확인결과 제대로 지원함을 확인하였다.
 
-5. github fork copy
+4. github fork copy
 
 - 나는 [LessOrMore](http://jekyllthemes.org/themes/Less-Or-More/) 라는 테마를 가져왔다. 물론 많은 부분을 수정해야했다. 심지어 중국어였다.⎛    ᷄  •⌓   •᷅      ⎞
