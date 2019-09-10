@@ -1,14 +1,12 @@
 # Site settings
-name: Atom
-email: ojs0106@gmail.com
+name: Atom의 Tech Blog
+email: js49.oh@samsung.com
 author: atom
-url: https://atomwoww.github.io/
-github: https://github.com/atomwoww/
+url: https://atomthink.com
+resume_site: https://atomthink.com/about
 baseurl: ""
-
 description: Atom의 Tech Blog
 motto: 낙서하는 개발자
-# banner: 
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
@@ -17,7 +15,20 @@ paginate: 10
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 github_username: atomwoww
-
+# Tracker
+analytics: UA-146505718-1
 # Build settings
 markdown: kramdown
 
+gems:
+  - jekyll-paginate
+
+exclude:
+  - README.md
+  - LICENSE.md
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor  
