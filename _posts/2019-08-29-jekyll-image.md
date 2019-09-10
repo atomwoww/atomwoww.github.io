@@ -57,7 +57,7 @@ author: atom
 
 ### 해당 클래스에 css적용하기
 
->[_popup.sass](https://github.sec.samsung.net/js49-oh/js49-oh.github.sec.samsung.net/blob/3a99290383ea727dcfdab708e602aa8ccad339d7/styles/css/popup.css)를 복사해서 sass로 빌드해준다
+>[_popup.sass](https://github.com/atomwoww/atomwoww.github.io/blob/63e6d3bc86f4eb354b94090a50a4e82d66ec225e/styles/css/popup.css)를 복사해서 sass로 빌드해준다
 >빌드 명령어는 아래와 같다.
 >
 >```shell

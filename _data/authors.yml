@@ -13,11 +13,11 @@ atom:
 
   # This photo will be used in the about section
   picture:
-    src:             https://github.sec.samsung.net/pages/js49-oh/assets/images/me.jpg
+    src:             https://github.com/atomwoww/atomwoww.github.io/blob/master/assets/images/me.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://github.sec.samsung.net/pages/js49-oh/assets/images/me.jpg
-      2x:            https://github.sec.samsung.net/pages/js49-oh/assets/images/me.jpg
+      1x:            https://github.com/atomwoww/atomwoww.github.io/blob/master/assets/images/me.jpg
+      2x:            https://github.com/atomwoww/atomwoww.github.io/blob/master/assets/images/me.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -47,7 +47,7 @@ atom:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          js49-oh
+    github:          atomwoww
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -58,4 +58,4 @@ atom:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:js49.oh@samsung.com
+    email:           mailto:ojs0106@gmail.com

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: github Blog from Jekyll Code 수정
-subtitle: github blog 사내에서 사용하기
+subtitle: github blog 사용하기
 categories: blog
 tags: [jekyll,blog]
 author: atom
@@ -20,14 +20,14 @@ cd LessOrMore-master
 
 * 처음 받은 코드의 모습  
 ![config]({{ "assets/images/2019-08-27-jekyll-blog-code/스크린샷 2019-08-27 오후 6.50.20.png" | relative_url }}){: width="100%" height="100"%}  
-`name, email, author`을 맞게 수정해준다. 그리고 url은 사내 github주소 baseurl은 사용자 id로 해준다
+`name, email, author`을 맞게 수정해준다. 그리고 url은 github주소(https://{사용자이름}.github.io) 
 
 ```yaml
-    url: https://github.sec.samsung.net
-    baseurl: /pages/js49-oh
+    url: https://atomwoww.github.io
+    baseurl: /
 ```
 
-> github.com의 경우 userid.github.io 가 기본 page로 호스팅을 해주는데 반해 사내에는 <https://github.sec.samsung.net/pages/{userid}> 가 기본페이지이다. 다른 블로그의 가이드를 따르면 안되었던 부분은 이부분이다.
+> github.com의 경우 userid.github.io 가 기본 page로 호스팅을 해준다.
 
 ### 불필요한 부분 제거
 

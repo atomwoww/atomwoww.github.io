@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 사내에서 Jekyll로 블로그 시작하기 위한 준비 for Mac
+title: Jekyll로 블로그 시작하기 위한 준비 for Mac
 subtitle: Go language install
 categories: troubleshooting
 tags: [jekyll,mac]
@@ -69,7 +69,7 @@ ruby 2.5.3p105 (2018-10-18 revision 65156) [x86_64-darwin17]
 최종적을 Ruby Executable Path(EXECUTABLE DIRECTORY)를 확인한다
 
 ```bash
-Junseokui-MacBook-Pro:js49-oh.github.sec.samsung.net junseokoh$ gem env
+Junseokui-MacBook-Pro:blog junseokoh$ gem env
 RubyGems Environment:
   - RUBYGEMS VERSION: 2.7.6
   - RUBY VERSION: 2.5.3 (2018-10-18 patchlevel 105) [x86_64-darwin17]
@@ -111,8 +111,8 @@ RubyGems Environment:
 $ gem install bundler jekyll
 $ bundle install
 $ bundle exec jekyll serve
- Auto-regeneration: enabled for '/Users/junseokoh/Documents/blog/js49-oh.github.sec.samsung.net'
-    Server address: http://127.0.0.1:4000/pages/js49-oh/
+ Auto-regeneration: enabled for '/Users/junseokoh/Documents/blog/'
+    Server address: http://127.0.0.1:4000/
   Server running... press ctrl-c to stop.
 ```
 
@@ -120,7 +120,7 @@ $ bundle exec jekyll serve
 
 ```bash
 $ bundler exec jekyll serve --host 0.0.0.0
- Auto-regeneration: enabled for '/Users/junseokoh/Documents/blog/js49-oh.github.sec.samsung.net'
-    Server address: http://0.0.0.0:4000/pages/js49-oh/
+ Auto-regeneration: enabled for '/Users/junseokoh/Documents/blog/'
+    Server address: http://0.0.0.0:4000/
   Server running... press ctrl-c to stop.
 ```
