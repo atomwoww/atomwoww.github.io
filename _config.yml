@@ -20,9 +20,9 @@ analytics: UA-146505718-1
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-paginate
-
+  - jekyll-sitemap
 exclude:
   - README.md
   - LICENSE.md
