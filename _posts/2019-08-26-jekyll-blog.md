@@ -7,6 +7,9 @@ tags: [jekyll,blog]
 author: atom
 ---
 
+* content
+{:toc}
+
 ## github Blog from Jekyll
 
 ## 왜 github blog인가

@@ -7,6 +7,9 @@ tags: [jekyll,blog]
 author: atom
 ---
 
+* content
+{:toc}
+
 ## code 수정하기
 
 ### jekyll theme download 후 unzip

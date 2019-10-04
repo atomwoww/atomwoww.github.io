@@ -6,6 +6,10 @@ categories: program
 tags: [go,linux]
 author: atom
 ---
+
+* content
+{:toc}
+
 ## Linux, macOS, and FreeBSD tarballs
 
 ## Download the archive and extract it into /usr/local, creating a Go tree in /usr/local/go. For example

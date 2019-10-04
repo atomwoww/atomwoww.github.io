@@ -7,6 +7,9 @@ tags: [jekyll,blog]
 author: atom
 ---
 
+* content
+{:toc}
+
 ## wiki page처럼 이미지를 누르면 크게 보일 순 없을까
 
 대부분의 웹페이지가 이미지를 누르면 커진다던가 효과를 준다던가 하는데 Jekyll theme은 도무지 지원하는 것이 없었다. 열심히 구글링을 하던 도중 결론을 내린것은 post할때 rendering된 이미지의 class를 이용하여 원하는데로 수정하는 것이었다.
