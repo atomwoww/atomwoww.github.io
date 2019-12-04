@@ -6416,7 +6416,7 @@ hr {
   overflow: hidden;
   background: #fff;
   background-color: #fff;
-  padding: 1px 60px 80px 60px;
+  padding: 1px 10px 80px 10px;
   margin: 0 -15px;
   border: none;
   border-radius: 0 0 4px 4px;
@@ -6430,6 +6430,12 @@ hr {
 }
 .docs-section + .docs-section {
   padding-top: 40px;
+}
+
+@media (min-width: 768px) {
+  .docs-content {
+    padding: 1px 60px 80px 60px;
+  }
 }
 .sidebar {
   display: none;
