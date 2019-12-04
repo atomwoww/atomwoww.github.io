@@ -63,15 +63,15 @@ tag: [video, filming, accessory]
 
 1. [영월 소개](https://www.youtube.com/watch?v=3unoFtF9p68&t=248s)
     A7m3 와 Gimbal 을 활용애서 촬영했는데 장비보다는 영상미(편집능력) 배경음악 등이 아우러지는 제가 좋아하는 영상입니다.
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/3unoFtF9p68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/3unoFtF9p68' frameborder='0' allowfullscreen></iframe></div>
 
 2. [여행에 미치다](https://www.youtube.com/watch?v=IXyFQ5_FyiQ)
     많은 Transition 효과를 사용하여 재미를 더했네요
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/IXyFQ5_FyiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/IXyFQ5_FyiQ' frameborder='0' allowfullscreen></iframe></div>
 
 3. [오사카 영상](https://www.youtube.com/watch?v=BX-OFZUU0_E)
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/BX-OFZUU0_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/BX-OFZUU0_E' frameborder='0' allowfullscreen></iframe></div>
 
 ### 제가 사용하는 제품
 
